@@ -19,7 +19,7 @@ Education
   * Thesis: *Microaneurysm detection in fundus images using deep neural networks*
   * Supervisor: Prof. Hamid-Reza Pourreza
 
-* **B.Sc. in Computer Engineering**, Ferdowsi University of Mashhad, Iran (2010 - 2014)
+
 
 Work Experience
 ======
