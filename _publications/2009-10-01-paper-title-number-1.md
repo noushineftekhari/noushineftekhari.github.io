@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Microaneurysm Detection in Fundus Images Using a Two-Step Convolutional Neural Network"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-microaneurysm-detection
+excerpt: 'This study presents a novel approach for detecting microaneurysms in fundus images, enhancing early diagnosis in diabetic retinopathy.'
+date: 2019-01-01
+venue: 'Biomedical Engineering Online'
+slidesurl: 'http://academicpages.github.io/files/slides_microaneurysm.pdf'
+paperurl: 'https://doi.org/10.1186/s12938-019-0675-9'
+citation: 'N. Eftekhari, H. Pourreza, M. Masoudi, K. G. Shirazi, and E. Saeedi, "Microaneurysm detection in fundus images using a two-step convolutional neural network," <i>Biomedical Engineering Online</i>, 2019.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces a two-step convolutional neural network for automated detection of microaneurysms in fundus images, a critical early marker of diabetic retinopathy. The method enhances diagnostic accuracy by combining image processing and deep learning to identify microaneurysm lesions with high sensitivity and specificity.
