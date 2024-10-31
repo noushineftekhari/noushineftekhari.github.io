@@ -11,35 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Artificial Intelligence**, Teesside University, United Kingdom (2019 - 2023)
+  * Thesis: *Radiogenomics and fluxomics data integration using machine learning and deep learning to improve ovarian cancer survival prediction*
+  * Supervisor: Prof. Claudio Angione
 
-Work experience
+* **M.Sc. in Artificial Intelligence**, Ferdowsi University of Mashhad, Iran (2014 - 2017)
+  * Thesis: *Microaneurysm detection in fundus images using deep neural networks*
+  * Supervisor: Prof. Hamid-Reza Pourreza
+
+* **B.Sc. in Computer Engineering**, Ferdowsi University of Mashhad, Iran (2010 - 2014)
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Associate**, Alan Turing Institute, London, UK
+  * Fields: Deep Neural Networks (Transformers, Diffusion Models, Foundation Models)(2023 - Present)
+  * Projects: Real-time plankton monitoring with the RAPID tool suite, supporting biodiversity and ecosystem studies
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Researcher**, National Oceanography Centre, Southampton, UK (March 2023 - Sep 2023)
+  * Fields: Machine Learning, Convolutional Neural Networks (CNNs), Diffusion Models
+  * Projects: Developed sensor-agnostic models for marine particle classification and stratification
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Researcher**, Computational Systems Biology and Data Analytics Research Group, Teesside University, UK (2019 - 2023)
+  * Fields: Machine Learning, Computer Vision, Medical Image Analysis, Computational Biology
+  * Projects: Developed models for ovarian cancer survival prediction, CT image segmentation, and integrated breast cancer fluxomics data
+
+* **Part-time Lecturer**, School of Computing, Engineering and Digital Technologies, Teesside University, UK
+  * Courses: 
+    - Artificial Intelligence Bootcamp (July-August 2021)
+    - Machine Learning & AI for Business Applications Bootcamp (Oct-Feb 2021-2022)
+    - Artificial Intelligence Foundations (Sep-Dec 2021)
+    - Machine Learning (Jan-May 2022)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, R
+* **Libraries & Tools**: TensorFlow, Keras, Scikit-learn, OpenCV, SimpleITK
+* **Machine Learning Techniques**: CNNs, Transformers, U-Net, Diffusion Models, Survival Models
+* **Data Tools**: MySQL, SQL Server
+* **Operating Systems**: Linux (Ubuntu, Fedora), Windows
 
 Publications
 ======
