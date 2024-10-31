@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Noushin Eftekhari – Researcher in AI for Biodiversity and Cancer Research"
+title: "Noushin Eftekhari – Researcher in AI for Environment and Cancer Research"
 author_profile: true
 redirect_from: 
   - /about/
