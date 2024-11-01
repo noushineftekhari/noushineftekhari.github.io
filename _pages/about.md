@@ -17,4 +17,4 @@ Welcome to my personal academic site! I am a research associate at the Alan Turi
 
 ## Hobbies & Interests
 
-Outside of research, I enjoy hiking and gardening, where I find inspiration in nature and the environment. These hobbies keep me grounded and fuel my passion for ecological research and biodiversity.
+Outside of research, I enjoy hiking and gardening, where I find inspiration in nature and the environment.
