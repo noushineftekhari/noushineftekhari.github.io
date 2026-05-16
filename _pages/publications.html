@@ -5,32 +5,67 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=mJFg3REAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</p>
 
-{% include base_path %}
+<hr>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>🌦️ Weather Prediction & Climate AI</h2>
 
+<p>
+  <strong><a href="https://arxiv.org/abs/2509.17658">Technical overview and architecture of the FastNet Machine Learning weather prediction model, version 1.0</a></strong><br>
+  Daub et al. (incl. <strong>Eftekhari N.</strong>) · arXiv · 2025<br>
+  <em>GNN-based global weather forecasting model developed jointly by the Alan Turing Institute and the Met Office.</em>
+</p>
 
+<p>
+  <strong><a href="https://arxiv.org/abs/2509.17601">FastNet: Improving the physical consistency of machine-learning weather prediction models through loss function design</a></strong><br>
+  Dunstan et al. (incl. <strong>Eftekhari N.</strong>) · arXiv · 2025<br>
+  <em>Exploring loss function modifications — spherical harmonic loss, horizontal gradients, and wind representation — to improve physical realism of ML weather forecasts.</em>
+</p>
 
+<hr>
+
+<h2>🌊 Marine Biodiversity & Environmental AI</h2>
+
+<p>
+  <strong><a href="https://www.frontiersin.org/journals/marine-science">RAPID: Real-time Automated Plankton Identification Dashboard using Edge AI at sea</a></strong><br>
+  Pitois SG, Blackwell RE, Close H, <strong>Eftekhari N.</strong>, Giering SLC, Masoudi M, Payne E, Ribeiro J and Scott J · Frontiers in Marine Science · 2025<br>
+  <em>Edge AI system for real-time automated plankton identification deployed at sea, developed with CEFAS.</em>
+</p>
+
+<hr>
+
+<h2>🧬 AI in Medicine & Cancer Research</h2>
+
+<p>
+  <strong><a href="https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00182-6">Cross-attention enables deep learning on limited omics-imaging-clinical data of 130 lung cancer patients</a></strong><br>
+  Verma S, Magazzù G, <strong>Eftekhari N.</strong>, et al. · Cell Reports Methods · 2024<br>
+  <em>Multimodal deep learning for personalised survival prediction in lung cancer using cross-attention on small omics-imaging-clinical datasets.</em>
+</p>
+
+<p>
+  <strong><a href="https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-019-0675-9">Microaneurysm detection in fundus images using a two-step convolutional neural network</a></strong><br>
+  <strong>Eftekhari N.</strong>, Pourreza H., Masoudi M., Ghiasi-Shirazi K., Saeedi E. · BioMedical Engineering OnLine · 2019<br>
+  <em>Two-stage CNN approach for early detection of diabetic retinopathy via microaneurysm detection in retinal fundus images.</em>
+</p>
+
+<p>
+  <strong><a href="https://arxiv.org/abs/2003.13440">Computer Aided Detection for Pulmonary Embolism Challenge (CAD-PE)</a></strong><br>
+  González G. et al. (incl. <strong>Eftekhari N.</strong>) · arXiv · 2020<br>
+  <em>Benchmark challenge for automated pulmonary embolism detection in CTA images.</em>
+</p>
+
+<p>
+  <strong><a href="https://arxiv.org/abs/1707.01330">A dataset for Computer-Aided Detection of Pulmonary Embolism in CTA images</a></strong><br>
+  Masoudi M., Pourreza H., <strong>Eftekhari N.</strong>, et al. · arXiv · 2017<br>
+  <em>Dataset and benchmark for pulmonary embolism detection using computed tomography angiography.</em>
+</p>
+
+<hr>
+
+<h2>📘 PhD Thesis</h2>
+
+<p>
+  <strong><a href="https://research.tees.ac.uk/ws/portalfiles/portal/87963241/PhD_thesis_Noushin_Eftekhari.pdf">Multimodal Data Integration for Cancer Survival Prediction</a></strong><br>
+  <strong>Eftekhari N.</strong> · Teesside University · 2023
+</p>
