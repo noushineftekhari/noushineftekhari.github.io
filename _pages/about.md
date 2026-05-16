@@ -12,7 +12,7 @@ redirect_from:
 at the intersection of AI and the natural world — from predicting tomorrow's 
 weather to understanding the ecosystems beneath the ocean surface.</p>
 
-<p>My current passion is <strong>machine learning weather prediction</strong>. 
+<p>My current passion is <strong>AI weather prediction</strong>. 
 As part of the <a href="https://www.turing.ac.uk/research/research-projects/fastnet">FastNet</a> 
 project — a collaboration between the 
 <a href="https://www.turing.ac.uk">Alan Turing Institute</a> and the 
