@@ -14,8 +14,7 @@ weather to understanding the ecosystems beneath the ocean surface.</p>
 
 <p>My current passion is <strong>AI weather prediction</strong>. 
 As part of the <a href="https://www.turing.ac.uk/research/research-projects/fastnet">FastNet</a> 
-project — a collaboration between the 
-<a href="https://www.turing.ac.uk">Alan Turing Institute</a> and the 
+project — a collaboration between the Alan Turing Institute</a> and the 
 <a href="https://www.metoffice.gov.uk">Met Office</a> — I work on building 
 physically consistent, graph neural network-based models for global weather 
 forecasting. You can read our work on 
