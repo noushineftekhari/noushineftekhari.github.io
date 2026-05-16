@@ -57,7 +57,6 @@ in ovarian cancer using multimodal data.
   </tr>
 </table>
 
----
 
 <h2>Hobbies &amp; Interests</h2>
 
