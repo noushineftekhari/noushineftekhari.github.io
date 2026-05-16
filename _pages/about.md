@@ -33,7 +33,7 @@ with a focus on survival prediction in ovarian cancer using multimodal data.</p>
   <li><a href="https://www.turing.ac.uk/research/research-projects/fastnet">Machine Learning Weather Prediction</a></li>
   <li><a href="https://arxiv.org/abs/2509.17601">Physics-informed Deep Learning</a></li>
   <li><a href="https://arxiv.org/abs/2509.17658">Graph Neural Networks</a></li>
-  <li>Environmental AI and Biodiversity Monitoring</li>
+  <li><a href="[https://arxiv.org/abs/2509.17658](https://link.springer.com/chapter/10.1007/978-3-031-92387-6_8)">Environmental AI and Biodiversity Monitoring</li>
   <li>AI in Precision Medicine and Cancer Research</li>
   <li><a href="https://scholar.google.com/citations?hl=en&user=mJFg3REAAAAJ&view_op=list_works&sortby=pubdate">Multimodal Data Integration</a></li>
 </ul>
