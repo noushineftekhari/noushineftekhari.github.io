@@ -23,9 +23,6 @@ forecasting. You can read our work on
 I believe AI has a transformative role to play in how we understand and 
 respond to our changing climate.</p>
 
-<p>Beyond weather, my research spans <strong>marine biodiversity monitoring</strong> 
-through AI-driven plankton classification, and <strong>AI in cancer research</strong>, 
-with a focus on survival prediction in ovarian cancer using multimodal data.</p>
 
 <h2>Research Interests</h2>
 <ul>
