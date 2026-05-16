@@ -29,33 +29,14 @@ in ovarian cancer using multimodal data.
 ---
 
 <h2>Research Interests</h2>
-
-<table style="border:none; width:100%;">
-  <tr>
-    <td style="border:none; padding: 6px 0;">🌦️</td>
-    <td style="border:none; padding: 6px 12px;"><a href="https://www.turing.ac.uk/research/research-projects/fastnet">Machine Learning Weather Prediction</a></td>
-  </tr>
-  <tr>
-    <td style="border:none; padding: 6px 0;">🧮</td>
-    <td style="border:none; padding: 6px 12px;"><a href="https://arxiv.org/abs/2509.17601">Physics-informed Deep Learning</a></td>
-  </tr>
-  <tr>
-    <td style="border:none; padding: 6px 0;">🕸️</td>
-    <td style="border:none; padding: 6px 12px;"><a href="https://arxiv.org/abs/2509.17658">Graph Neural Networks</a></td>
-  </tr>
-  <tr>
-    <td style="border:none; padding: 6px 0;">🌊</td>
-    <td style="border:none; padding: 6px 12px;"><a href="https://www.turing.ac.uk/research/research-projects/ai-and-autonomous-systems-assessing-biodiversity-and-ecosystem-health">Environmental AI and Biodiversity Monitoring</a></td>
-  </tr>
-  <tr>
-    <td style="border:none; padding: 6px 0;">🧬</td>
-    <td style="border:none; padding: 6px 12px;"><a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00076-1">AI in Precision Medicine and Cancer Research</a></td>
-  </tr>
-  <tr>
-    <td style="border:none; padding: 6px 0;">📊</td>
-    <td style="border:none; padding: 6px 12px;"><a href="https://research.tees.ac.uk/ws/portalfiles/portal/87963241/PhD_thesis_Noushin_Eftekhari.pdf">Multimodal Data Integration</a></td>
-  </tr>
-</table>
+<ul>
+  <li><a href="https://www.turing.ac.uk/research/research-projects/fastnet">Machine Learning Weather Prediction</a></li>
+  <li><a href="https://arxiv.org/abs/2509.17601">Physics-informed Deep Learning</a></li>
+  <li><a href="https://arxiv.org/abs/2509.17658">Graph Neural Networks</a></li>
+  <li><a href="https://www.turing.ac.uk/research/research-projects/ai-and-autonomous-systems-assessing-biodiversity-and-ecosystem-health">Environmental AI and Biodiversity Monitoring</a></li>
+  <li><a href="https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00182-6">AI in Precision Medicine and Cancer Research</a></li>
+  <li><a href="https://research.tees.ac.uk/ws/portalfiles/portal/87963241/PhD_thesis_Noushin_Eftekhari.pdf">Multimodal Data Integration</a></li>
+</ul>
 
 
 <h2>Hobbies &amp; Interests</h2>
