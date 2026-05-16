@@ -19,8 +19,8 @@ project — a collaboration between the
 <a href="https://www.metoffice.gov.uk">Met Office</a> — I work on building 
 physically consistent, graph neural network-based models for global weather 
 forecasting. You can read our work on 
-<a href="https://arxiv.org/abs/2509.17601">arXiv:2509.17601</a> and 
-<a href="https://arxiv.org/abs/2509.17658">arXiv:2509.17658</a>. 
+<a href="https://arxiv.org/abs/2509.17601">Technical overview and architecture of the FastNet Machine Learning weather prediction model</a> and 
+<a href="https://arxiv.org/abs/2509.17658">FastNet: Improving the physical consistency of machine-learning weather prediction models through loss function design</a>. 
 I believe AI has a transformative role to play in how we understand and 
 respond to our changing climate.</p>
 
