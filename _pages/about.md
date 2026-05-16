@@ -59,20 +59,6 @@ in ovarian cancer using multimodal data.
 
 ---
 
-<h2>Selected Publications</h2>
-
-<p>
-<a href="https://arxiv.org/abs/2509.17658">Technical overview and architecture of the FastNet Machine Learning weather prediction model</a><br>
-Daub et al. (incl. Eftekhari) · arXiv 2025
-</p>
-
-<p>
-<a href="https://arxiv.org/abs/2509.17601">FastNet: Improving the physical consistency of ML weather prediction models through loss function design</a><br>
-Dunstan et al. (incl. Eftekhari) · arXiv 2025
-</p>
-
----
-
 <h2>Hobbies &amp; Interests</h2>
 
 <p>
