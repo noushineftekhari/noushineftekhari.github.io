@@ -7,14 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic site! I am a research associate at the Alan Turing Institute, specialising in machine learning for environmental monitoring and biodiversity, with a background in cancer research and multimodal data analysis. My research is dedicated to leveraging AI and advanced deep learning techniques to address complex challenges in ecological and medical sciences, with projects spanning marine plankton classification, plankton biodiversity, and survival prediction in ovarian cancer.
+<p>Welcome to my personal academic site! I am a research associate at the 
+<a href="https://www.turing.ac.uk">Alan Turing Institute</a>, where I work 
+at the intersection of AI and the natural world — from predicting tomorrow's 
+weather to understanding the ecosystems beneath the ocean surface.</p>
 
-## Research Interest
+<p>My current passion is <strong>machine learning weather prediction</strong>. 
+As part of the <a href="https://www.turing.ac.uk/research/research-projects/fastnet">FastNet</a> 
+project — a collaboration between the 
+<a href="https://www.turing.ac.uk">Alan Turing Institute</a> and the 
+<a href="https://www.metoffice.gov.uk">Met Office</a> — I work on building 
+physically consistent, graph neural network-based models for global weather 
+forecasting. You can read our work on 
+<a href="https://arxiv.org/abs/2509.17601">arXiv:2509.17601</a> and 
+<a href="https://arxiv.org/abs/2509.17658">arXiv:2509.17658</a>. 
+I believe AI has a transformative role to play in how we understand and 
+respond to our changing climate.</p>
 
-- Environmental AI and Biodiversity Monitoring
-- AI in Precision Medicine and Cancer Research
-- Multimodal Data Integration
+<p>Beyond weather, my research spans <strong>marine biodiversity monitoring</strong> 
+through AI-driven plankton classification, and <strong>AI in cancer research</strong>, 
+with a focus on survival prediction in ovarian cancer using multimodal data.</p>
 
-## Hobbies & Interests
+<h2>Research Interests</h2>
+<ul>
+  <li><a href="https://www.turing.ac.uk/research/research-projects/fastnet">Machine Learning Weather Prediction</a></li>
+  <li><a href="https://arxiv.org/abs/2509.17601">Physics-informed Deep Learning</a></li>
+  <li><a href="https://arxiv.org/abs/2509.17658">Graph Neural Networks</a></li>
+  <li>Environmental AI and Biodiversity Monitoring</li>
+  <li>AI in Precision Medicine and Cancer Research</li>
+  <li><a href="https://scholar.google.com/citations?hl=en&user=mJFg3REAAAAJ&view_op=list_works&sortby=pubdate">Multimodal Data Integration</a></li>
+</ul>
 
-Outside of research, I enjoy hiking and gardening, where I find inspiration in nature and the environment.
+<h2>Hobbies &amp; Interests</h2>
+<p>Outside of research, I find myself drawn to the same forces I study — 
+I spend my time hiking and gardening, finding inspiration in the natural 
+world that motivates my work.</p>
+
