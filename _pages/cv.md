@@ -23,9 +23,11 @@ Education
 
 Work Experience
 ======
-* **Research Associate**, Alan Turing Institute, London, UK
-  * Fields: Deep Neural Networks (Transformers, Diffusion Models, Foundation Models)(2023 - Present)
-  * Projects: Real-time plankton monitoring with the RAPID tool suite, supporting biodiversity and ecosystem studies
+* **Research Associate**, Alan Turing Institute, London, UK (2023 - Present)
+  * Fields: Graph Neural Networks, Physics-informed Deep Learning, Transformers, Diffusion Models, Foundation Models, Edge AI
+  * Projects:
+    - [FastNet](https://www.turing.ac.uk/research/research-projects/fastnet) (with the Met Office): graph neural network-based models for global weather forecasting
+    - [AI for biodiversity and ecosystem health](https://www.turing.ac.uk/research/research-projects/ai-and-autonomous-systems-assessing-biodiversity-and-ecosystem-health) (with Cefas): real-time plankton monitoring at sea with the RAPID Edge AI dashboard
 
 * **Researcher**, National Oceanography Centre, Southampton, UK (March 2023 - Sep 2023)
   * Fields: Machine Learning, Convolutional Neural Networks (CNNs), Diffusion Models
@@ -45,8 +47,8 @@ Work Experience
 Skills
 ======
 * **Programming Languages**: Python, R
-* **Libraries & Tools**: TensorFlow, Keras, Scikit-learn, OpenCV, SimpleITK
-* **Machine Learning Techniques**: CNNs, Transformers, U-Net, Diffusion Models, Survival Models
+* **Libraries & Tools**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, SimpleITK
+* **Machine Learning Techniques**: Graph Neural Networks, CNNs, Transformers, U-Net, Diffusion Models, Survival Models
 * **Data Tools**: MySQL, SQL Server
 * **Operating Systems**: Linux (Ubuntu, Fedora), Windows
 
@@ -67,5 +69,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-

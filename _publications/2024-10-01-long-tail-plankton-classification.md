@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-marine-plankton-classification
 excerpt: 'This paper presents a model for enhancing in situ, real-time classification of long-tail marine plankton species, essential for biodiversity monitoring.'
-date: 2024-01-01
+date: 2024-10-01
 venue: 'ECCV, CV4E Workshop'
 posterurl: 'https://drive.google.com/file/d/1JNfSp_NZsscbAc3E4FdJir8VV4A7nHAX/view?usp=drive_link'
 paperurl: 'https://drive.google.com/file/d/1WbbivnQmb1SEvE4w2ludDwdvF0LgEOYj/view?usp=sharing'

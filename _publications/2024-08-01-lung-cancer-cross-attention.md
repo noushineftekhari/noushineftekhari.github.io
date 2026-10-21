@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-lung-cancer-cross-attention
 excerpt: 'This study introduces a cross-attention mechanism for multi-modal deep learning on limited data in lung cancer research.'
-date: 2024-01-01
+date: 2024-08-01
 venue: 'Cell Reports Methods'
 
 paperurl: 'https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00182-6'

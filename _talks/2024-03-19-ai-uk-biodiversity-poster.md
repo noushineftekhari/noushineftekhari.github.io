@@ -5,7 +5,7 @@ type: "Poster Presentation"
 permalink: /talks/2024-03-19-20-ai-biodiversity-monitoring
 venue: "AI UK"
 date: 2024-03-19
-location: "United Kingdom"
+location: "London, United Kingdom"
 ---
 
 This poster presentation highlighted the development of computer vision tools for biodiversity monitoring, showcasing how AI-driven methodologies can be used to assess ecosystem health effectively. It covered novel approaches in visual data analysis for environmental sustainability.
