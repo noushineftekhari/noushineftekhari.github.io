@@ -1,0 +1,41 @@
+/* ==========================================================================
+   Custom styles: headings in Crimson Pro small caps, matching the LaTeX CV
+   ========================================================================== */
+
+.page__content h2,
+.page__title,
+.archive__subtitle {
+  color: $accent-color;
+  font-variant-caps: small-caps;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.page__content h2 {
+  font-size: $type-size-3;
+}
+
+.page__content h3,
+.archive__item-title {
+  font-family: $header-font-family;
+  font-weight: 600;
+}
+
+.masthead__menu-item--lg a {
+  font-family: $header-font-family;
+  font-size: 1.15em;
+  font-weight: 700;
+}
+
+.greedy-nav .visible-links a {
+  font-family: $header-font-family;
+  font-variant-caps: small-caps;
+  font-size: 1.1em;
+  letter-spacing: 0.03em;
+}
+
+.sidebar .author__name {
+  font-family: $header-font-family;
+  font-size: $type-size-4;
+  font-weight: 700;
+}
