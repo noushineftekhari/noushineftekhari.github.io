@@ -47,6 +47,13 @@ Skills
 * **Data Tools**: MySQL, SQL Server
 * **Operating Systems**: Linux (Ubuntu, Fedora), Windows
 
+Professional Development
+======
+* **Turing Professional Development Programme**, Alan Turing Institute (Oct 2026 - Mar 2027)
+  * Leadership and line management: effective management, feedback, psychological safety, conflict handling, influence and inclusive leadership
+* **Fundamentals and applications of diffusion models**, Isaac Newton Institute, London (Jun 2024)
+* **High performance computing & NVIDIA deep learning course**, Alan Turing Institute (Feb 2024)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
