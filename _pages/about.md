@@ -22,6 +22,7 @@ Research interests
 
 News
 ------
+- **Apr 2026**: First-author paper on [fusing imaging and metabolic modelling for ovarian cancer](https://doi.org/10.1016/j.cels.2026.101594) published in *Cell Systems*.
 - **Sep 2025**: Two FastNet preprints released on [model architecture](https://arxiv.org/abs/2509.17658) and [physically consistent loss design](https://arxiv.org/abs/2509.17601).
 - **Jan 2025**: [RAPID](https://doi.org/10.3389/fmars.2024.1513463), our real-time plankton identification dashboard, published in *Frontiers in Marine Science*.
 - **Oct 2024**: Presented work on long-tail plankton classification at the ECCV Computer Vision for Ecology Workshop in Milan.
@@ -30,6 +31,8 @@ News
 
 Selected publications
 ------
+- **Fusing imaging and metabolic modeling via multimodal deep learning in ovarian cancer**  
+  **Eftekhari N.**, Verma S., Saha A., Zampieri G., Sawan S., Occhipinti A., Angione C. · *Cell Systems* · 2026 · [paper](https://doi.org/10.1016/j.cels.2026.101594)
 - **Technical overview and architecture of the FastNet Machine Learning weather prediction model, version 1.0**  
   Daub E. G., et al. (incl. **Eftekhari N.**) · *arXiv* · 2025 · [paper](https://arxiv.org/abs/2509.17658)
 - **RAPID: Real-time automated plankton identification dashboard using Edge AI at sea**  
