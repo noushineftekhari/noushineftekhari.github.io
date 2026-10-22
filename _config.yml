@@ -10,7 +10,7 @@
 locale                   : "en-UK"
 title                    : "Noushin Eftekhari"
 title_separator          : " "
-name                     : &name "Noushin"
+name                     : &name "Noushin Eftekhari"
 description              : &description "Noushin Eftekhari, Research Associate at the Alan Turing Institute working on AI for weather prediction, marine biodiversity monitoring and cancer research."
 url                      : https://noushineftekhari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,10 +21,10 @@ repository               : "noushineftekhari/noushineftekhari.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://noushineftekhari.github.io/images/IMG_8571 2.jpg"
+  avatar           : "profile-photo.jpg"
   name             : "Noushin Eftekhari"
   pronouns         : "she/her"  
-  bio              : "AI for ecological and human health"
+  bio              : "Research Associate working on AI for weather, ecosystems and health"
   location         : "London, UK"
   employer         : "Alan Turing Institute"
   uri              : # URL

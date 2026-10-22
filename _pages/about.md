@@ -1,47 +1,48 @@
 ---
 permalink: /
 author_profile: true
+excerpt: "Noushin Eftekhari is a Research Associate at the Alan Turing Institute developing machine learning for weather prediction, marine biodiversity monitoring and cancer research."
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p>
-I am a research associate at the <a href="https://www.turing.ac.uk">Alan Turing Institute</a>, 
-working at the intersection of AI and the natural world — from predicting tomorrow's weather 
-to understanding the ecosystems beneath the ocean surface.
-</p>
+I am a Research Associate at the [Alan Turing Institute](https://www.turing.ac.uk) in London, working at the intersection of AI and the natural world, from forecasting tomorrow's weather to understanding the ecosystems beneath the ocean surface.
 
-<p>
-My current passion is <strong>AI for weather prediction</strong>. As part of the 
-<a href="https://www.turing.ac.uk/research/research-projects/fastnet">FastNet</a> project — 
-a collaboration between the Alan Turing Institute and the <a href="https://www.metoffice.gov.uk">Met Office</a> — 
-I develop physically consistent, graph neural network-based models for global weather forecasting. 
-I believe AI has a transformative role to play in how we understand and respond to our changing climate.
-</p>
+My current focus is **machine learning for weather prediction**. On the [FastNet](https://www.turing.ac.uk/research/research-projects/fastnet) project, a collaboration between the Turing and the [Met Office](https://www.metoffice.gov.uk), I develop physically consistent, graph neural network-based models for global weather forecasting.
 
-<p>
-Beyond weather, my research spans marine biodiversity monitoring through AI-driven plankton 
-classification, and AI applications in cancer research, with a focus on survival prediction 
-in ovarian cancer using multimodal data.
-</p>
+Previously, I worked on **AI for marine biodiversity monitoring**, building Edge AI models that classify plankton images in real time aboard research vessels with [Cefas](https://www.cefas.co.uk) and the National Oceanography Centre. I hold a PhD in Artificial Intelligence from Teesside University, where I integrated imaging, genomic and metabolic data to improve survival prediction in ovarian cancer.
 
----
+Research interests
+------
+- **Machine learning weather prediction**: graph neural networks and physics-informed deep learning
+- **Environmental AI**: biodiversity monitoring, plankton image classification and Edge AI at sea
+- **AI in precision medicine**: cancer survival prediction and medical image analysis
+- **Multimodal data integration**: combining imaging, omics, clinical data and metadata
 
-<h2>Research Interests</h2>
-<ul>
-  <li><a href="https://www.turing.ac.uk/research/research-projects/fastnet">Machine Learning Weather Prediction</a></li>
-  <li><a href="https://arxiv.org/abs/2509.17601">Physics-informed Deep Learning</a></li>
-  <li><a href="https://arxiv.org/abs/2509.17658">Graph Neural Networks</a></li>
-  <li><a href="https://www.turing.ac.uk/research/research-projects/ai-and-autonomous-systems-assessing-biodiversity-and-ecosystem-health">Environmental AI and Biodiversity Monitoring</a></li>
-  <li><a href="https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00182-6">AI in Precision Medicine and Cancer Research</a></li>
-  <li><a href="https://research.tees.ac.uk/ws/portalfiles/portal/87963241/PhD_thesis_Noushin_Eftekhari.pdf">Multimodal Data Integration</a></li>
-</ul>
+News
+------
+- **Sep 2025**: Two FastNet preprints released on [model architecture](https://arxiv.org/abs/2509.17658) and [physically consistent loss design](https://arxiv.org/abs/2509.17601).
+- **Jan 2025**: [RAPID](https://doi.org/10.3389/fmars.2024.1513463), our real-time plankton identification dashboard, published in *Frontiers in Marine Science*.
+- **Oct 2024**: Presented work on long-tail plankton classification at the ECCV Computer Vision for Ecology Workshop in Milan.
+- **May 2024**: Tested our real-time plankton classifier at sea aboard the RV Cefas Endeavour ([blog post](/posts/2024/05/nephrops-survey-real-time-plankton-monitoring/)).
+- **Mar 2024**: Talk on plankton classification with Edge AI at the 7th Zooplankton Production Symposium in Hobart, Australia.
 
+Selected publications
+------
+- **Technical overview and architecture of the FastNet Machine Learning weather prediction model, version 1.0**  
+  Daub E. G., et al. (incl. **Eftekhari N.**) · *arXiv* · 2025 · [paper](https://arxiv.org/abs/2509.17658)
+- **RAPID: Real-time automated plankton identification dashboard using Edge AI at sea**  
+  Pitois S. G., Blackwell R. E., Close H., **Eftekhari N.**, et al. · *Frontiers in Marine Science* · 2025 · [paper](https://doi.org/10.3389/fmars.2024.1513463)
+- **Improving in situ real-time classification of long-tail marine plankton images for ecosystem studies**  
+  **Eftekhari N.**, Pitois S., Masoudi M., et al. · *ECCV Workshop on Computer Vision for Ecology* · 2024 · [paper](https://drive.google.com/file/d/1WbbivnQmb1SEvE4w2ludDwdvF0LgEOYj/view?usp=sharing)
+- **Cross-attention enables deep learning on limited omics-imaging-clinical data of 130 lung cancer patients**  
+  Verma S., Magazzù G., **Eftekhari N.**, et al. · *Cell Reports Methods* · 2024 · [paper](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00182-6)
 
-<h2>Hobbies &amp; Interests</h2>
+[All publications →](/publications/)
 
-<p>
-Outside of research, I find myself drawn to the same forces I study — hiking and gardening, 
-finding inspiration in the natural world that motivates my work.
-</p>
+Outside research
+------
+I enjoy hiking and gardening, which keep me close to the natural world that motivates my work.
+
+I welcome collaborations in AI for weather, climate, ecology and health. Feel free to [get in touch](mailto:neftekhari@turing.ac.uk).
