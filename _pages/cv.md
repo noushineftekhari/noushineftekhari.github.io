@@ -41,11 +41,11 @@ Work Experience
 
 Skills
 ======
-* **Programming Languages**: Python, R
-* **Libraries & Tools**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, SimpleITK
-* **Machine Learning Techniques**: Graph Neural Networks, CNNs, Transformers, U-Net, Diffusion Models, Survival Models
-* **Data Tools**: MySQL, SQL Server
-* **Operating Systems**: Linux (Ubuntu, Fedora), Windows
+* **ML methods**: Graph neural networks (incl. encoder graph construction), vision transformers, diffusion models, self-supervised and representation learning, long-tail learning, U-Net segmentation, survival models, multimodal data fusion
+* **Python**: PyTorch, TensorFlow, Keras, scikit-learn, scikit-image, OpenCV, SimpleITK, pandas
+* **Computing**: Distributed data-parallel training on multi-node A100 GPUs, Azure Machine Learning pipelines, HPC, edge deployment (NVIDIA Jetson AGX Orin), Git, Linux, LaTeX
+* **Languages**: Python, R, MATLAB, SQL
+* **Soft skills**: Cross-organisation collaboration, mentoring and teaching, science communication, leading working groups
 
 Professional Development
 ======
