@@ -37,13 +37,6 @@ Work Experience
   * Fields: Machine Learning, Computer Vision, Medical Image Analysis, Computational Biology
   * Projects: Developed models for ovarian cancer survival prediction, CT image segmentation, and integrated breast cancer fluxomics data
 
-* **Part-time Lecturer**, School of Computing, Engineering and Digital Technologies, Teesside University, UK
-  * Courses: 
-    - Artificial Intelligence Bootcamp (July-August 2021)
-    - Machine Learning & AI for Business Applications Bootcamp (Oct-Feb 2021-2022)
-    - Artificial Intelligence Foundations (Sep-Dec 2021)
-    - Machine Learning (Jan-May 2022)
-
 Skills
 ======
 * **Programming Languages**: Python, R
@@ -66,6 +59,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Part-time Lecturer**, School of Computing, Engineering and Digital Technologies, Teesside University, UK (2021 - 2022)
+  * Taught AI and machine learning to undergraduate students and professionals on intensive bootcamps, with an emphasis on project-based learning
+  * Supervised students on independent AI projects
+  * Courses:
+    - **Artificial Intelligence Bootcamp** (Jul - Aug 2021): core machine learning concepts, data preprocessing and introductory algorithms
+    - **Artificial Intelligence Foundations**, undergraduate (Sep - Dec 2021): supervised and unsupervised learning, neural networks
+    - **Machine Learning & AI for Business Applications Bootcamp** (Oct 2021 - Feb 2022): machine learning pipelines, model deployment and business case studies
+    - **Machine Learning**, undergraduate (Jan - May 2022): core algorithms, model evaluation and data analysis in Python
