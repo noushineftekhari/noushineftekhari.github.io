@@ -9,9 +9,9 @@ redirect_from:
 
 I am a Research Associate at the [Alan Turing Institute](https://www.turing.ac.uk) in London, working at the intersection of AI and the natural world, from forecasting tomorrow's weather to understanding the ecosystems beneath the ocean surface.
 
-My current focus is **machine learning for weather prediction**. On the [FastNet](https://www.turing.ac.uk/research/research-projects/fastnet) project, a collaboration between the Turing and the [Met Office](https://www.metoffice.gov.uk), I develop physically consistent, graph neural network-based models for global weather forecasting.
+My current focus is **machine learning for weather prediction**. On the [FastNet](https://www.turing.ac.uk/research/research-projects/fastnet) project, a collaboration between the Turing and the [Met Office](https://www.metoffice.gov.uk), I develop physically consistent, graph neural network-based models for global weather forecasting, and led the study of how the model encodes the input grid onto its mesh.
 
-Previously, I worked on **AI for marine biodiversity monitoring**, building Edge AI models that classify plankton images in real time aboard research vessels with [Cefas](https://www.cefas.co.uk) and the National Oceanography Centre. I hold a PhD in Artificial Intelligence from Teesside University, where I integrated imaging, genomic and metabolic data to improve survival prediction in ovarian cancer.
+Previously, I worked on **AI for marine biodiversity monitoring**, building Edge AI models that classify plankton images in real time aboard research vessels with [Cefas](https://www.cefas.co.uk) and the National Oceanography Centre. I hold a PhD in Computer Science from Teesside University, where I integrated imaging, genomic and metabolic data to improve survival prediction in ovarian cancer.
 
 Research interests
 ------
@@ -23,7 +23,8 @@ Research interests
 News
 ------
 - **Apr 2026**: First-author paper on [fusing imaging and metabolic modelling for ovarian cancer](https://doi.org/10.1016/j.cels.2026.101594) published in *Cell Systems*.
-- **Sep 2025**: Two FastNet preprints released on [model architecture](https://arxiv.org/abs/2509.17658) and [physically consistent loss design](https://arxiv.org/abs/2509.17601).
+- **2026**: FastNet paper on [physically consistent loss design](https://doi.org/10.1175/AIES-D-25-0090.1) published in *Artificial Intelligence for the Earth Systems*.
+- **Sep 2025**: [FastNet v1.0 technical overview](https://arxiv.org/abs/2509.17658) released, including my encoder graph-construction study (equal contribution).
 - **Jan 2025**: [RAPID](https://doi.org/10.3389/fmars.2024.1513463), our real-time plankton identification dashboard, published in *Frontiers in Marine Science*.
 - **Oct 2024**: Presented work on long-tail plankton classification at the ECCV Computer Vision for Ecology Workshop in Milan.
 - **May 2024**: Tested our real-time plankton classifier at sea aboard the RV Cefas Endeavour ([blog post](/posts/2024/05/nephrops-survey-real-time-plankton-monitoring/)).

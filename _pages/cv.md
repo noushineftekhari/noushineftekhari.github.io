@@ -11,25 +11,27 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Artificial Intelligence**, Teesside University, United Kingdom (2019 - 2023)
-  * Thesis: *Radiogenomics and fluxomics data integration using machine learning and deep learning to improve ovarian cancer survival prediction*
-  * Supervisor: Prof. Claudio Angione
+* **Ph.D. in Computer Science**, Teesside University, United Kingdom (Dec 2019 - Nov 2023)
+  * Thesis: *Enhancing personalised medicine through integration of genome-scale metabolic modelling, multi-modal cancer data, and machine learning*
+  * Advisors: Prof. Claudio Angione, Dr Annalisa Occhipinti
 
-* **M.Sc. in Artificial Intelligence**, Ferdowsi University of Mashhad, Iran (2014 - 2017)
+* **M.Sc. in Artificial Intelligence**, Ferdowsi University of Mashhad, Iran (Sep 2014 - Aug 2017)
   * Thesis: *Microaneurysm detection in fundus images using deep neural networks*
   * Supervisor: Prof. Hamid-Reza Pourreza
+
+* **B.Sc. in Computer Science**, minor in Software Engineering, Bojnord University, Iran (Sep 2010 - Jun 2014)
 
 
 
 Work Experience
 ======
-* **Research Associate**, Alan Turing Institute, London, UK (2023 - Present)
+* **Postdoctoral Research Associate**, Alan Turing Institute, London, UK (Oct 2023 - Present)
   * Fields: Graph Neural Networks, Physics-informed Deep Learning, Transformers, Diffusion Models, Foundation Models, Edge AI
   * Projects:
-    - [FastNet](https://www.turing.ac.uk/research/research-projects/fastnet) (with the Met Office): graph neural network-based models for global weather forecasting
+    - [FastNet](https://www.turing.ac.uk/research/research-projects/fastnet) (with the Met Office): graph neural network-based models for global weather forecasting; owned the encoder graph-construction study (radius vs KNN, O96 and N320) reported in the v1.0 paper
     - [AI for biodiversity and ecosystem health](https://www.turing.ac.uk/research/research-projects/ai-and-autonomous-systems-assessing-biodiversity-and-ecosystem-health) (with Cefas): real-time plankton monitoring at sea with the RAPID Edge AI dashboard
 
-* **Researcher**, National Oceanography Centre, Southampton, UK (March 2023 - Sep 2023)
+* **Data Scientist**, National Oceanography Centre, Southampton, UK (Mar 2023 - Sep 2023)
   * Fields: Machine Learning, Convolutional Neural Networks (CNNs), Diffusion Models
   * Projects: Developed sensor-agnostic models for marine particle classification and stratification
 
