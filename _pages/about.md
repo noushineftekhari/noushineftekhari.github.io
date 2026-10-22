@@ -15,10 +15,13 @@ Previously, I worked on **AI for marine biodiversity monitoring**, building Edge
 
 Research interests
 ------
-- **Machine learning weather prediction**: graph neural networks and physics-informed deep learning
-- **Environmental AI**: biodiversity monitoring, plankton image classification and Edge AI at sea
-- **AI in precision medicine**: cancer survival prediction and medical image analysis
-- **Multimodal data integration**: combining imaging, omics, clinical data and metadata
+I am interested in making machine learning reliable for the complex physical and biological systems we depend on, especially in the rare, high-impact cases that matter most.
+
+- **AI weather prediction**: graph neural network forecasting models, and how design choices such as graph construction between the input grid and the model's mesh shape forecast skill ([FastNet](/portfolio/fastnet/)).
+- **Physically consistent machine learning**: training losses and evaluation beyond average error, such as power spectra, so that forecasts stay sharp and physically realistic.
+- **Rare and extreme events**: long-tail learning for the cases that standard training under-serves, from rare plankton species to extreme weather.
+- **AI in the field**: taking models from research to real-time deployment on edge hardware, as with the [RAPID](/portfolio/portfolio-1/) plankton monitoring system at sea.
+- **Multimodal learning**: fusing imaging with omics, mechanistic models and metadata, for example to predict cancer survival ([Cell Systems, 2026](https://doi.org/10.1016/j.cels.2026.101594)).
 
 News
 ------
